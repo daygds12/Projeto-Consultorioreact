@@ -13,7 +13,7 @@ $ npm install
 # Execute a aplicação 
 $ npm start 
 
-#Tecnologias utilizadas 
+##Tecnologias utilizadas 
 -Javascript 
 -Nodejs
 -Html
