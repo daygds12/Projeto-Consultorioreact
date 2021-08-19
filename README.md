@@ -3,8 +3,8 @@
 ##DevMedia projeto
 Página web de consultório dentário utilizando React
 
-## Como executar?
-# Clone este repositório
+# Como executar?
+$ Clone este repositório
 
 # Instale as dependências
 $ npm install
@@ -13,7 +13,7 @@ $ npm install
 # Execute a aplicação 
 $ npm start 
 
-## Tecnologias utilizadas 
+#Tecnologias utilizadas 
 -Javascript 
 -Nodejs
 -Html
