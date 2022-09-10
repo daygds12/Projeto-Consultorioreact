@@ -7,7 +7,7 @@ $| :placard: Vitrine.Dev |     |
 $| -------------  | --- |
 $| :sparkles: Nome        | *Consultório React*
 $| :label: Tecnologias |javascript, css, html , react, nodejs (tecnologias utilizadas)
-$| :rocket: URL         | https://url-deploy.com.br
+$| :rocket: URL         | 
 $| :fire: Desafio     | https://daygds12.github.io/Projeto-Consultorioreact/
 
 
