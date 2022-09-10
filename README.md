@@ -8,7 +8,7 @@ $| -------------  | --- |
 $| :sparkles: Nome        | *Consultório React*
 $| :label: Tecnologias |javascript, css, html , react, nodejs (tecnologias utilizadas)
 $| :rocket: URL         | https://url-deploy.com.br
-$| :fire: Desafio     | https://url-do-desafio.com.br
+$| :fire: Desafio     | https://daygds12.github.io/Projeto-Consultorioreact/
 
 
 
