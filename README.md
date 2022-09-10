@@ -27,6 +27,6 @@ $ npm start
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-#[](![image]./public/assets/aparelho.png)
-)
-#vitrinedev
+#[](./public/assets/aparelho.png)
+
+#vitrinedev 
